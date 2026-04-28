@@ -1,4 +1,4 @@
-# ⚡ liga-justicia
+# ⚡ Liga de la justicia
 
 > Repositorio de práctica · Curso de Git & GitHub en Udemy
 
